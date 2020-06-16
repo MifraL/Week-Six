@@ -82,7 +82,7 @@ StoryMap
 
 Sound 
 
-![image i just uploaded](sonification.JPG)
+![image i just uploaded](sonification.JPG) 
 
 -	Because the data was chosen by me, I understood the sound better… like how as the years progressed for the diary, the piano notes would rise.
 
