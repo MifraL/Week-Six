@@ -40,12 +40,12 @@ Image analysis
 
 ![image i just uploaded](imagean1.JPG)
 ![image i just uploaded](imagean2.JPG)
-![image i just uploaded](imagean3.JPG)
-![image i just uploaded](imagean4.JPG)
-![image i just uploaded](imagean5.JPG)
+![image i just uploaded](imagean3.png)
+![image i just uploaded](imagean4.png)
+![image i just uploaded](imagean5.png)
 ![image i just uploaded](imagean6.JPG)
-![image i just uploaded](imagean7.JPG)
-![image i just uploaded](imagean8.JPG)
+![image i just uploaded](imagean7.png)
+![image i just uploaded](imagean8.png)
 ![image i just uploaded](imagean9.JPG)
 
 
