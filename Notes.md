@@ -1,4 +1,4 @@
-***I’m going to be doing it on the Women’s Travel Diaries 
+***I’m going to be doing the analysis based on the Women’s Travel Diaries 
 https://repository.duke.edu/dc/womenstraveldiaries?f%5Bcommon_model_name_ssi%5D%5B%5D=Item
 
 Voyant 
@@ -86,5 +86,11 @@ Sound
 
 -	Because the data was chosen by me, I understood the sound better… like how as the years progressed for the diary, the piano notes would rise.
 
+Static website 
+
+![image i just uploaded](staticwebsite.JPG) 
+
+- it took a while to add the content that I specifically wanted... because of the pre-existing site
+- I even ended dowloading hugo which was not necessary... 
 
 
