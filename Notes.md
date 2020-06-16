@@ -66,9 +66,9 @@ Ocr
 Posters
 
 ![image i just uploaded](poster1.JPG)
-![image i just uploaded](poster2.JPG)
-![image i just uploaded](poster3.JPG)
-![image i just uploaded](poster4.JPG)
+![image i just uploaded](poster2.png)
+![image i just uploaded](poster3.png)
+![image i just uploaded](poster4.png)
 ![image i just uploaded](poster5.JPG)
 ![image i just uploaded](poster6.JPG)
 
