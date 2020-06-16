@@ -93,4 +93,4 @@ Static website
 - it took a while to add the content that I specifically wanted... because of the pre-existing site
 - I even ended dowloading hugo which was not necessary... 
 
-
+https://mifral.github.io/ 
